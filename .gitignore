@@ -77,3 +77,4 @@ DerivedDataCache/*
 # Textures
 **/Textures/*
 Content/Environment/Card/T_Card.uasset
+Content/Debug/
